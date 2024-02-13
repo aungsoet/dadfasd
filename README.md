@@ -22,12 +22,12 @@ Either as you go or after you are done writing your program, answer the followin
 
 **What did Copilot do well as the driver?**
 
-Write your response here!
+Write your response here! relieve the driver if he is exhausted on long night trips.
 
 **What did Copilot struggle with as the driver?**
 
-Write your response here!
+Write your response here!  could go into wrong lcoation
 
 **What challenges did you face while working with Copilot as the driver?**
 
-Write your response here!
+Write your response here!  getting the prgoam to work, nothing makes sense, idk how to accese my acutal code, 
